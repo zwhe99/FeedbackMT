@@ -39,6 +39,6 @@ python3 src/inference_sft.py \
     --search-algorithm beam \
     --batch 2 \
     --seed 0 \
-    --model-type s2s \ # `--model-type s2s` for NLLB; `--model-type causal` for LLAMA-2
+    --model-type s2s \ # --model-type s2s for NLLB; --model-type causal for LLAMA-2
     --beam 4
 ```
