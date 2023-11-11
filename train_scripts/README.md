@@ -25,10 +25,10 @@ Parallel data
 * wmt20-train: high-resource (2M)
 * wmt20-train-20M: high-resource (20M)
 * wiki-train: low-resource (200K)
-* wiki-2_5k: low-resource (2.5K x 4 language pairs = 10K)
-* wiki-25k: low-resource (25K x 4 language pairs = 100K)
-* wiki-250k: low-resource (250K x 4 language pairs = 1M)
-* wiki-750k: low-resource (750K x 4 language pairs = 3M)
+* wiki-2_5k-clean: low-resource (2.5K x 4 language pairs = 10K)
+* wiki-25k-clean: low-resource (25K x 4 language pairs = 100K)
+* wiki-250k-clean: low-resource (250K x 4 language pairs = 1M)
+* wiki-750k-clean: low-resource (750K x 4 language pairs = 3M)
 
 
 
