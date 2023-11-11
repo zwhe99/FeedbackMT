@@ -45,6 +45,16 @@ python3 src/inference_sft.py \
 
 
 
+### Critical code
+
+```shell
+src/LMFlow/src/lmflow/pipeline/raft_aligner.py     # RAFT/RAFT+ for LLAMA2
+src/LMFlow/src/lmflow/pipeline/raft_aligner_t2t.py # RAFT/RAFT+ for NLLB
+src/LMFlow/src/lmflow/pipeline/mrt_aligner_t2t.py  # MRT/MRT+   for NLLB
+```
+
+
+
 ### Acknowledgement
 
 * [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow): The RAFT implementation is based on `LMFlow`.
