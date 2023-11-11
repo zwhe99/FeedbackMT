@@ -42,3 +42,10 @@ python3 src/inference_sft.py \
     --model-type s2s \ # --model-type s2s for NLLB; --model-type causal for LLAMA-2
     --beam 4
 ```
+
+
+
+### Acknowledgement
+
+* [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow): The RAFT implementation is based on `LMFlow`.
+* [wxjiao/ParroT](https://github.com/wxjiao/ParroT): Training and inference scripts are based on `ParroT`
