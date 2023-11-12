@@ -41,16 +41,16 @@ Monlingual data
 
 **Base model**
 
-* `llama-2-7b-hf`: meta-llama/Llama-2-7b-hf
-* `nllb-200-1.3B`: facebook/nllb-200-1.3B
-* `nllb-200-3.3B`: facebook/nllb-200-3.3B
-* `nllb-200-600M`: facebook/nllb-200-distilled-600M
+* `llama-2-7b-hf`: [meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf)
+* `nllb-200-1.3B`: [facebook/nllb-200-1.3B](https://huggingface.co/facebook/nllb-200-1.3B)
+* `nllb-200-3.3B`: [facebook/nllb-200-3.3B](https://huggingface.co/facebook/nllb-200-3.3B)
+* `nllb-200-600M`: [facebook/nllb-200-distilled-600M](https://huggingface.co/facebook/nllb-200-distilled-600M)
 * `random-600M`: same architecture as nllb-200-600M but trained from scratch (random initialisation)
 
 
 
 **Reward model**
 
-* `da`: zwhe99/wmt21-comet-qe-da
-* `mqm`: zwhe99/wmt21-comet-qe-mqm
-* `unite`: Unbabel/unite-mup
+* `da`: [zwhe99/wmt21-comet-qe-da](https://huggingface.co/zwhe99/wmt21-comet-qe-da)
+* `mqm`: [zwhe99/wmt21-comet-qe-mqm](https://huggingface.co/zwhe99/wmt21-comet-qe-mqm)
+* `unite`: [Unbabel/unite-mup](https://huggingface.co/Unbabel/unite-mup)
