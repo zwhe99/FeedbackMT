@@ -51,6 +51,6 @@ Monlingual data
 
 **Reward model**
 
-* `da`: [zwhe99/wmt21-comet-qe-da](https://huggingface.co/zwhe99/wmt21-comet-qe-da)
-* `mqm`: [zwhe99/wmt21-comet-qe-mqm](https://huggingface.co/zwhe99/wmt21-comet-qe-mqm)
+* `da`: [anon0616/wmt21-comet-qe-da](https://huggingface.co/anon0616/wmt21-comet-qe-da)
+* `mqm`: [anon0616/wmt21-comet-qe-mqm](https://huggingface.co/anon0616/wmt21-comet-qe-mqm)
 * `unite`: [Unbabel/unite-mup](https://huggingface.co/Unbabel/unite-mup)

@@ -30,7 +30,7 @@ deepspeed --num_gpus 8 --master_port $MASTER_PORT \
     --repeat_detect True \
     --use_fast_tokenizer False \
     --reward_type comet-qe \
-    --reward_model_or_path zwhe99/wmt21-comet-qe-da \
+    --reward_model_or_path anon0616/wmt21-comet-qe-da \
     --model_name_or_path $model_path \
     --arch_type encoder_decoder \
     --num_raft_iteration 20 \
