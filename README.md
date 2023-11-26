@@ -17,7 +17,7 @@ conda install mpi4py
 
 ### Data
 
-Download from [Google drive](https://drive.google.com/file/d/1eF6fQKaKl-PcWrV9arYbGyOvRGZrThNb/view?usp=sharing).
+Download from [Google drive](xxx).
 
 ```shell
 unzip data.zip
