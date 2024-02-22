@@ -1,5 +1,6 @@
 # FeedbackMT
 
+Code of _[Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)_
 
 ### Environment
 
