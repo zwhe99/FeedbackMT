@@ -58,6 +58,15 @@ src/LMFlow/src/lmflow/pipeline/raft_aligner_t2t.py # RAFT/RAFT+ for NLLB
 src/LMFlow/src/lmflow/pipeline/mrt_aligner_t2t.py  # MRT/MRT+   for NLLB
 ```
 
+### Citation
+```ruby
+@article{he2023feedbackmt,
+  title={Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model},
+  author={He, Zhiwei and Wang, Xing and Jiao, Wenxiang and Zhang, Zhuosheng and Wang, Rui and Shi, Shuming and Tu, Zhaopeng},
+  journal={arXiv preprint arXiv:2401.12873},
+  year={2024}
+}
+```
 
 
 ### Acknowledgement
