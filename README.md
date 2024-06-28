@@ -62,7 +62,7 @@ src/LMFlow/src/lmflow/pipeline/mrt_aligner_t2t.py  # MRT/MRT+   for NLLB
 ```ruby
 @inproceedings{he2024improving,
     title = "Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model",
-    author = "He, Zhiwei  and Wang, Xing  and Jiao, Wenxiang  and Zhang, Zhuosheng  and Wang, Rui  and Shi, Shuming  and Tu, Zhaopeng",
+    author={Zhiwei He, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu},
     booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
     year = "2024",
     url = "https://aclanthology.org/2024.naacl-long.451",
